@@ -1,2 +1,4 @@
 # Observatorivm
-repositorio con el trabajo final de bases de datos. Hecho por Paula Dominguez, Noé Ruano, Carlos Velazquez y Rubén García
+Trabajo final de la asignatura de "Bases de datos".
+
+** Autores:** Paula Dominguez, Noé Ruano, Carlos Velazquez y Rubén García
