@@ -7,9 +7,9 @@ IF EXISTS(select * from sys.databases where name='observatorio')
 go
 
 -- Crea la base de datos
--- Continuando con la explicación del go, aquí nos sirve para separar
---  la instrucción de creación (create) y de uso (use), ya que el uso
---  mostraría error si la base de datos no existe con anterioridad.
+-- Continuando con la explicaciï¿½n del go, aquï¿½ nos sirve para separar
+--  la instrucciï¿½n de creaciï¿½n (create) y de uso (use), ya que el uso
+--  mostrarï¿½a error si la base de datos no existe con anterioridad.
 create database observatorio;
 go
 
